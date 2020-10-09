@@ -5,5 +5,7 @@ public class Main
         System.out.println("Dist = " + UtilityMathClass.Dist(10,5));
         System.out.println("Mult = " + UtilityMathClass.Mult(10,10));
         System.out.println("Division = " + UtilityMathClass.Division(100,5));
+        System.out.println("Power = " + UtilityMathClass.Pow(2, 2));
+        System.out.println("Power = " + UtilityMathClass.Pow(2, -1));
     }
 }
